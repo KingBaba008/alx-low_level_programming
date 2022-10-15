@@ -1,1 +1,1 @@
-My solutions on C language
+My Solutions in C language
