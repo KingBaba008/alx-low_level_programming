@@ -6,7 +6,7 @@
  * this program prints "Programming is positive, zero, or negative
  * Return: 0
  */
-int main(void)
+int main
 {
 	char ch;
 	for (ch = 'a' ; ch <= 'z' ; ch++)
@@ -18,5 +18,5 @@ int main(void)
 		putchar(ch)
 	}
 	putchar('\n');
-	return (0);
+	return 0;
 }
